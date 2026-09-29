@@ -1,2 +1,2 @@
 # SocketAndClientForAndroid
-android 使用mdns的Socket服务端和客户端示例
+使用mdns的Socket服务端和客户端Android示例
